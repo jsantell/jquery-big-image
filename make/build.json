@@ -1,0 +1,8 @@
+{
+  "JAVASCRIPT" : {
+    "DIST_DIR" : "./",
+    "jquery.bigImage" : [
+      "src/jquery.bigImage.js"
+    ]
+  }
+}
